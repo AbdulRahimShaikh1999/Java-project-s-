@@ -1,1 +1,1 @@
-# comp308-project
+This is an extensive project using Java. Two different programs are present
